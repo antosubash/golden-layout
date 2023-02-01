@@ -1,5 +1,5 @@
 {
-  "name": "golden-layout",
+  "name": "@antosubash/golden-layout",
   "version": "2.6.0",
   "description": "A multi-screen javascript Layout manager",
   "keywords": [
@@ -24,8 +24,7 @@
   "module": "dist/esm/index.js",
   "typings": "dist/types/index.d.ts",
   "files": [
-    "dist/**/*",
-    "src/**/*"
+    "dist/**/*"
   ],
   "sideEffects": false,
   "scripts": {
